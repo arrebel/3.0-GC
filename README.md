@@ -1,14 +1,13 @@
 
 # Grasscutter2.8.52
-更新自Gktwo/public-gc2.8.50/ 内置jar（存放的是资源文件我不会经常去更新它）
-这个仓库会收集更新已知的代码，来实现测试Grasscutter2.8到Grasscutter3.0升级。如果发现问题可以向我报告（如果可以请用简体中文，谢谢）。
+这个仓库会收集更新已知的代码，来实现测试Grasscutter2.8到Grasscutter3.0升级。发现问题可以向我报告（如果可以请用简体中文，谢谢）。<br>
 
 ## 目前实现功能：
-1.行纪正常领奖
-2.大世界部分宝箱可通过解迷开启。
-3.新增须弥角色(可放卡池)、命星道具。
-4.新增须弥怪物、武器、突破材料（加入合成台）。
-5.他内容同2.8版一样
+1.行纪正常领奖<br>
+2.大世界部分宝箱可通过解迷开启。<br>
+3.新增须弥角色(可放卡池)、命星道具。<br>
+4.新增须弥怪物、武器、突破材料（加入合成台）。<br>
+5.他内容同2.8版一样<br>
 ## 如何运行它？
 必备环境：
 Java17 与 MongoDB (recommended 4.0+)
@@ -19,7 +18,7 @@ https://www.mongodb.com/try/download/compass<br>
 https://www.mongodb.com/try/download/community<br>
 
 ## 服务设置
-
+（资源文件我不会经常去更新它，请到这里下载）<br>
 1.下载GC3.0版本:https://github.com/lassedds/3.0-GC/releases/tag/Release
 
 2.下载资源文件:https://github.com/lassedds/3.0-Resources
