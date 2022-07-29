@@ -614,5 +614,35 @@
                 "chance": 50
             }
         ]
-    }
+    },
+  {
+		"avatarId": 10000067,
+		"name": "Collei",
+		"amountList": [
+			{
+				"value": 4,
+				"chance": 100
+			}
+		]
+	},
+	{
+		"avatarId": 10000068,
+		"name": "Sheep Dolly",
+		"amountList": [
+			{
+				"value": 4,
+				"chance": 100
+			}
+		]
+	},
+	{
+		"avatarId": 10000069,
+		"name": "Tighnari",
+		"amountList": [
+			{
+				"value": 4,
+				"chance": 100
+			}
+		]
+	}
 ]
