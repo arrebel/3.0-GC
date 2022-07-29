@@ -1,6 +1,8 @@
-# 3.0-GC
+## 如何运行它？
+必备环境：
+Java17 与 MongoDB (recommended 4.0+)
 
-在开始之前，你需要下载这两个文件<br>
+在开始之前，你需要下载它<br>
 https://download.oracle.com/java/17/archive/jdk-17.0.3.1_windows-x64_bin.exe<br>
 https://www.mongodb.com/try/download/compass<br>
 https://www.mongodb.com/try/download/community<br>
@@ -49,12 +51,7 @@ https://www.mongodb.com/try/download/community<br>
 4.新增须弥怪物、武器、突破材料（加入合成台）。
 5.他内容同2.8版一样
 
-
-## 如何运行它？
-必备环境：
-Java17 与 MongoDB (recommended 4.0+)
-
-客户端支持：
+## 客户端支持：
 内测端2.850、内测端2.851、内测端2.852（推荐）
 
 ## 常见问题
