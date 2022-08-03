@@ -30,10 +30,6 @@ https://www.mongodb.com/try/download/community<br>
 
 5:你现在可以使用*start .bat*文件来开启服务。
 
-6:打开你电脑上的3.0 Genshin文件夹，并把<a href="https://drive.google.com/file/d/1esXUB4Q_Y_wDjvqnNbN8jiQUKsO11N1S/view?usp=sharing">该文件</a>放在在这两个位置:<br>
-1. "*YOURGENSHINFOLDER/GenshinImpact _ Data/Managed/Metadata*"<br>
-2. "*YOURGENSHINFOLDER/GenshinImpact _ Data/Native/Data/Metadata*"
-
 ## 客户端支持：
 内测端2.850、内测端2.851、内测端2.852（推荐）
 
