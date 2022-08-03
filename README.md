@@ -34,23 +34,6 @@ https://www.mongodb.com/try/download/community<br>
 1. "*YOURGENSHINFOLDER/GenshinImpact _ Data/Managed/Metadata*"<br>
 2. "*YOURGENSHINFOLDER/GenshinImpact _ Data/Native/Data/Metadata*"
 
-## Fiddler 代理
-
-1.从<a href=https://www.telerik.com/download/fiddler>这里</a>下载Fiddler Classic。
-
-2.打开Fiddler Classic后，在软件窗口顶部找到**Tools**选项，然后选择**Options**。
-
-3.在**Options**菜单中你会看到很多子菜单，选择**HTTPS**子菜单，然后单击文本旁边的小方框**Decrypt HTTPS traffic**。
-
-4.完成第3步后，选择选项菜单下的**Connections**子菜单。然后选择**Fiddler Classiclistens onport**选项，默认情况下，端口为'8888'。你也可以单击**change**来使用其他的端口，比如我用的是8080。
-
-5.在选项菜单中选择**OK**并单击**FiddlerScript**按钮。然后<a href=https://github.lunatic.moe/fiddlerscript>从这里</a>找到脚本文件，复制脚本代码。回到Fiddler，用刚才复制的脚本替换现有脚本，然后单击**Save Script**按钮。
-
-6.现在你可以启动游戏了，但是你还没有完全完成。在你尝试登录时，Fiddler中会弹出一些菜单，全部选择确认即可。
-
-7.成功！现在你应该已经设置好Fiddler了。如果您有任何问题，欢迎加入我们的<a href=https://discord.gg/AYtB7Q2er8>Discord</a>
-
-
 ## 客户端支持：
 内测端2.850、内测端2.851、内测端2.852（推荐）
 
